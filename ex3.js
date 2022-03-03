@@ -16,7 +16,7 @@
 
  /**
   * Ejecuta el siguiente código e intenta averiguar que está sucediendo. CONTESTA A LA PREGUNTA: ¿Porque el úñtimo mensaje dice "Pez siguiente: undefined?"
-  */
+  * Por el = 
 
 let muchos_peces = ["Dory", "Nemo", "Shipho", "Estrella"]
 
